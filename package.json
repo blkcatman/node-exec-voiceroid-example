@@ -1,0 +1,15 @@
+{
+  "name": "node-exec-voiceroid-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve:bot": "node .\\index.js",
+    "serve:yukari": ".\\bin\\VoiceroidTServer Yukari"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^4.8.0"
+  }
+}
